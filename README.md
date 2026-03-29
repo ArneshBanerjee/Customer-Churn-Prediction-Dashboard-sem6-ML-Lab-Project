@@ -8,6 +8,7 @@ Built with Streamlit and an imbalanced-learning pipeline (SMOTE).
 
 ## Features
 
+All 3 datasets were augumented based on common features to create a larger dataset to make the project more generalizable as compared to using a single dataset.
 | Section | What it does |
 |---|---|
 | **Overview & EDA** | KPI cards, churn distribution, tenure/charge box-plots, correlation matrix, per-feature churn rates |
