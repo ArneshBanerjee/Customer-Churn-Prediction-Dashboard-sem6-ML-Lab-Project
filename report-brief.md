@@ -1,6 +1,6 @@
 # Lab Report Brief: Customer Churn Prediction Dashboard
 
-> **Instructions for Claude:** Use this document to generate a complete, formal, well-structured college lab exam report in PDF-ready format. The report must be formatted as a professional academic document with numbered sections, subsections, proper headings, tables, code blocks, and figures/observations. Use the data, numbers, code, and findings exactly as provided. The student's name is **Arnesh Banerjee** (Semester 6, Machine Learning). Do NOT omit or summarise any section — reproduce everything in full, formatted for submission. The report should look like it was written by a student who deeply understands every component.
+> **Instructions for AI reading this document:** Use this document to generate a complete, formal, well-structured college lab exam report in PDF-ready format. The report must be formatted as a professional academic document with numbered sections, subsections, proper headings, tables, code blocks, and figures/observations. Use the data, numbers, code, and findings exactly as provided. The student's name is **Arnesh Banerjee** (Semester 6, Machine Learning Lab). Do NOT omit or summarise any section — reproduce everything in full, formatted for submission. The report should look like it was written by a student who deeply understands every component.
 
 ---
 
